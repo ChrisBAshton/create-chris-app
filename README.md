@@ -1,9 +1,11 @@
 # Create Chris App
 
-Instructions:
+Barebones apps in multiple languages - useful starting points for code tests.
+
+## Instructions
 
 - Make a branch
-- Choose a language
+- Choose your language
 - Delete the other languages
 - Move the chosen language 'up' to the root
 - Commit & go!
